@@ -2,7 +2,7 @@
   "name": "valentines-proposal",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://nawaa.github.io/valentines-proposal",
+  "homepage": "https://nawaazamien.github.io/Valentines_Proposal",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
